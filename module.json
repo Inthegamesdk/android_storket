@@ -1,0 +1,172 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.syncedapps",
+    "module": "storket",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.3"
+          }
+        },
+        {
+          "group": "com.localebro",
+          "module": "okhttpprofiler",
+          "version": {
+            "requires": "1.0.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "storket-1.0.0.aar",
+          "url": "storket-1.0.0.aar",
+          "size": 32546,
+          "sha512": "9103a9c468a7487ecb2d6fa8c6c916fb576fb4705f7ec612b16602c74addd856c1eeb7a008fdfc4501488d2fe9c548fefa9403df8262df4554b4ca606c27faf1",
+          "sha256": "40ba4f5e193d76017300d085738b55ba92d7d2ff308a0cda4aea949adb3ecf8b",
+          "sha1": "d9dfeea680e99cf1bde0f71dd335722a40cce356",
+          "md5": "eaeb92824e9669fefebfe15353c9a72b"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.3"
+          }
+        },
+        {
+          "group": "com.localebro",
+          "module": "okhttpprofiler",
+          "version": {
+            "requires": "1.0.8"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "storket-1.0.0.aar",
+          "url": "storket-1.0.0.aar",
+          "size": 32546,
+          "sha512": "9103a9c468a7487ecb2d6fa8c6c916fb576fb4705f7ec612b16602c74addd856c1eeb7a008fdfc4501488d2fe9c548fefa9403df8262df4554b4ca606c27faf1",
+          "sha256": "40ba4f5e193d76017300d085738b55ba92d7d2ff308a0cda4aea949adb3ecf8b",
+          "sha1": "d9dfeea680e99cf1bde0f71dd335722a40cce356",
+          "md5": "eaeb92824e9669fefebfe15353c9a72b"
+        }
+      ]
+    }
+  ]
+}
