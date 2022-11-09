@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "storket",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -26,21 +26,21 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.7.20"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.7.20"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.7.20"
           }
         },
         {
@@ -81,13 +81,13 @@
       ],
       "files": [
         {
-          "name": "storket-1.0.2.aar",
-          "url": "storket-1.0.2.aar",
-          "size": 33664,
-          "sha512": "cb390c277bd315aeda32509f2fb7bbc44a9a772c9b7fc887e5b0184b0dcf6f2f20b6a80e2791c69cbd533c0705ca063f429cae2c6067e3e8273ddff1a20297dc",
-          "sha256": "39723cc3c85562ef3899bfdb772c046448ccca20dc25602f25fa8f1aba45a5aa",
-          "sha1": "4c385e25fa62b4259c8b8a6c7b75694d8ddac634",
-          "md5": "108a392fb7c456a9ff3b35cd985a6e35"
+          "name": "storket-1.0.3.aar",
+          "url": "storket-1.0.3.aar",
+          "size": 34635,
+          "sha512": "55565befef214eecf4caca20913363f19436f4cbd8af63e9076fe9b0010f49e00618385351d8842e8ac7600c19c46b3e0581f55171c4502df29a75efd699276b",
+          "sha256": "bc976dedce6ba43d7cc98337bf04dfc7a106060418400ec1dba030f88dad5f19",
+          "sha1": "73a0b1b56f1a478d8ec4144874549cefc08e51de",
+          "md5": "4ccd707b6d30cbb004cddc11118396bb"
         }
       ]
     },
@@ -103,21 +103,21 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.7.20"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk7",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.7.20"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.7.20"
           }
         },
         {
@@ -158,13 +158,13 @@
       ],
       "files": [
         {
-          "name": "storket-1.0.2.aar",
-          "url": "storket-1.0.2.aar",
-          "size": 33664,
-          "sha512": "cb390c277bd315aeda32509f2fb7bbc44a9a772c9b7fc887e5b0184b0dcf6f2f20b6a80e2791c69cbd533c0705ca063f429cae2c6067e3e8273ddff1a20297dc",
-          "sha256": "39723cc3c85562ef3899bfdb772c046448ccca20dc25602f25fa8f1aba45a5aa",
-          "sha1": "4c385e25fa62b4259c8b8a6c7b75694d8ddac634",
-          "md5": "108a392fb7c456a9ff3b35cd985a6e35"
+          "name": "storket-1.0.3.aar",
+          "url": "storket-1.0.3.aar",
+          "size": 34635,
+          "sha512": "55565befef214eecf4caca20913363f19436f4cbd8af63e9076fe9b0010f49e00618385351d8842e8ac7600c19c46b3e0581f55171c4502df29a75efd699276b",
+          "sha256": "bc976dedce6ba43d7cc98337bf04dfc7a106060418400ec1dba030f88dad5f19",
+          "sha1": "73a0b1b56f1a478d8ec4144874549cefc08e51de",
+          "md5": "4ccd707b6d30cbb004cddc11118396bb"
         }
       ]
     }
