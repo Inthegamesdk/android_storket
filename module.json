@@ -3,7 +3,7 @@
   "component": {
     "group": "com.syncedapps",
     "module": "storket",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -81,13 +81,13 @@
       ],
       "files": [
         {
-          "name": "storket-1.0.3.aar",
-          "url": "storket-1.0.3.aar",
-          "size": 34635,
-          "sha512": "55565befef214eecf4caca20913363f19436f4cbd8af63e9076fe9b0010f49e00618385351d8842e8ac7600c19c46b3e0581f55171c4502df29a75efd699276b",
-          "sha256": "bc976dedce6ba43d7cc98337bf04dfc7a106060418400ec1dba030f88dad5f19",
-          "sha1": "73a0b1b56f1a478d8ec4144874549cefc08e51de",
-          "md5": "4ccd707b6d30cbb004cddc11118396bb"
+          "name": "storket-1.0.4.aar",
+          "url": "storket-1.0.4.aar",
+          "size": 34596,
+          "sha512": "7a4c4c05304492bd95b4fff5d8690940808b6f37eb054aba2fc8d12fcaf5b41c569195f465ec4bfed1105bb2db05fedc52fd6ce027888d3129e3d984b7e18e35",
+          "sha256": "5ef05d78e184acbacbf585991303356a046f43be2c3b1072c4c111c79fb67b9f",
+          "sha1": "6b62f203474426e915e8d13cc1f4ba9af106a536",
+          "md5": "115807babe8845d2d89ae23a29c9e39b"
         }
       ]
     },
@@ -158,13 +158,13 @@
       ],
       "files": [
         {
-          "name": "storket-1.0.3.aar",
-          "url": "storket-1.0.3.aar",
-          "size": 34635,
-          "sha512": "55565befef214eecf4caca20913363f19436f4cbd8af63e9076fe9b0010f49e00618385351d8842e8ac7600c19c46b3e0581f55171c4502df29a75efd699276b",
-          "sha256": "bc976dedce6ba43d7cc98337bf04dfc7a106060418400ec1dba030f88dad5f19",
-          "sha1": "73a0b1b56f1a478d8ec4144874549cefc08e51de",
-          "md5": "4ccd707b6d30cbb004cddc11118396bb"
+          "name": "storket-1.0.4.aar",
+          "url": "storket-1.0.4.aar",
+          "size": 34596,
+          "sha512": "7a4c4c05304492bd95b4fff5d8690940808b6f37eb054aba2fc8d12fcaf5b41c569195f465ec4bfed1105bb2db05fedc52fd6ce027888d3129e3d984b7e18e35",
+          "sha256": "5ef05d78e184acbacbf585991303356a046f43be2c3b1072c4c111c79fb67b9f",
+          "sha1": "6b62f203474426e915e8d13cc1f4ba9af106a536",
+          "md5": "115807babe8845d2d89ae23a29c9e39b"
         }
       ]
     }
